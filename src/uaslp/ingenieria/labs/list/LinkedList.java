@@ -102,7 +102,7 @@ public class LinkedList {
 
     }
 
-    //Se agrega el iterador
+
     public Iterador getIterador() {
         return new Iterador(head);
     }
